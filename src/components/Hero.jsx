@@ -10,7 +10,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/edithmisik/Article-Summarizer",
+              "https://github.com/emisik/Article-Summarizer",
               "_blank"
             )
           }
